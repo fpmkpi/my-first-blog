@@ -25,7 +25,7 @@ SECRET_KEY = 'lpd$cd=8&yn%c_@38qtf3+m6#xc$%lkzsbe47=wj16wl=fgat1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vadya.pythonanywhere.com']
 
 
 # Application definition
